@@ -1,0 +1,4 @@
+langchain
+fireworks
+flask
+python-dotenv
